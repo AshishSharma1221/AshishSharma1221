@@ -11,9 +11,9 @@ Hey there! 👋 I'm Ash, a passionate software developer with a knack for creati
 - ⚙️ Git | Kafka | Docker | Agile | DevOps | SDLC
 
 ## Projects
-- [Spring Boot Ecommerce Product POC](link-to-project-1): Short description
-- [To Do React App](link-to-project-2): Short description
-- [YourNotes App](link-to-project-3): Short description
+- [Spring Boot Ecommerce Product POC](link-to-project-1): This project shows a working POC on how we can use Spring Boot, RestAPI and MySQL to work on Ecommerce project to create, delete, update and read from database.
+- [To Do React App](link-to-project-2): It's an App that is designed to keep user's simplicity in mind that helps users to simplify and to keep track their daily basis tasks.
+- [YourNotes App](link-to-project-3)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ashish-sharma-shiv786)
