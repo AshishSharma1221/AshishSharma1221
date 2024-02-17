@@ -1,7 +1,7 @@
 # Ashish Sharma
 Software Developer | Backend Enthusiast
 
-Hey there! 👋 I'm Ash, a passionate software developer with a knack for creating innovative solutions. I specialize in Backend development, and my goal is to make the digital world more efficient and enjoyable.
+ Hey there! 👋 I'm Ash, a seasoned software developer with 4 years of industry experience, specializing in Backend development. I have a proven track record of creating innovative solutions that enhance efficiency and user experience in the digital world. My goal is to continue leveraging my expertise to contribute to cutting-edge projects and make a positive impact on the software development landscape.
 
   ## Skills
 - 💻 Java Spring Boot | Rest APIs
