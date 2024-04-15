@@ -11,9 +11,9 @@ Software Developer | Backend Enthusiast
 - ⚙️ Git | Kafka | Docker | Agile | DevOps | SDLC
 
 ## Projects
-- [Spring Boot Ecommerce Product POC]([https://github.com/AshishSharma1221/SpringBoot-EcommerceProduct-POC]): This project shows a working POC on how we can use Spring Boot, RestAPI and MySQL to work on Ecommerce project to create, delete, update and read from database.
-- [To Do React App]([https://github.com/AshishSharma1221/TodoApp]): It's an App that is designed to keep user's simplicity in mind that helps users to simplify and to keep track their daily basis tasks.
-- [YourNotes App]([https://github.com/AshishSharma1221/NoteTakingApp])
+- [Spring Boot Ecommerce Product POC](https://github.com/AshishSharma1221/SpringBoot-EcommerceProduct-POC): This project shows a working POC on how we can use Spring Boot, RestAPI and MySQL to work on Ecommerce project to create, delete, update and read from database.
+- [To Do React App](https://github.com/AshishSharma1221/TodoApp): It's an App that is designed to keep user's simplicity in mind that helps users to simplify and to keep track their daily basis tasks.
+- [YourNotes App](https://github.com/AshishSharma1221/NoteTakingApp)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ashish-sharma-shiv786)
