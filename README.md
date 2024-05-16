@@ -17,7 +17,7 @@ Software Developer | Backend Enthusiast
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ashish-sharma-shiv786)
-- [Email](mailto:a_sharma200262@fanshaweonline.ca)
+- [Email](mailto:ashish.sb.sharma@gmail.com)
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
