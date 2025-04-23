@@ -1,25 +1,24 @@
 # Ashish Sharma
-Software Developer | Backend Enthusiast
+Engineer | Data ♥
 
- Hey there! 👋 I'm Ash, a seasoned software developer with 4 years of industry experience, specializing in Backend development. I have a proven track record of creating innovative solutions that enhance efficiency and user experience in the digital world. My goal is to continue leveraging my expertise to contribute to cutting-edge projects and make a positive impact on the software development landscape.
+ Hey there! 👋 I'm Ash, a seasoned software developer with 6+ years of industry experience. I have a proven track record of creating innovative solutions that enhance efficiency and user experience in the digital world. My goal is to continue leveraging my expertise to contribute to cutting-edge projects and make a positive impact in the Industry.
 
-  ## Skills
-- 💻 Java Spring Boot | Rest APIs
-- 💻 JavaScript | React 
-- 🌐 HTML | CSS | Sass
+  ## Hands-on Skills
+- 💻 Java | Rest APIs
+- 💻 Python | SQL | Azure
+- 🌐 JavaScript | ReactNative 
 - 🛢️ PostgreSQL | MySQL | Firebase
-- ⚙️ Git | Kafka | Docker | Agile | DevOps | SDLC
+- ⚙️ Git | Jira | Kafka | Docker | Agile | SDLC
 
 ## Projects
-- [Spring Boot Ecommerce Product POC](https://github.com/AshishSharma1221/SpringBoot-EcommerceProduct-POC): This project shows a working POC on how we can use Spring Boot, RestAPI and MySQL to work on Ecommerce project to create, delete, update and read from database.
-- [To Do React App](https://github.com/AshishSharma1221/TodoApp): It's an App that is designed to keep user's simplicity in mind that helps users to simplify and to keep track their daily basis tasks.
-- [YourNotes App](https://github.com/AshishSharma1221/NoteTakingApp)
+- [Spring Boot Ecommerce Product POC](https://github.com/AshishSharma1221/SpringBoot-EcommerceProduct-POC): This project shows a working POC on how we can use Spring Boot, RestAPI and MySQL to work on an Ecommerce project to create, delete, update and read from the database.
+- [CookBook App](https://github.com/AshishSharma1221/cookbook): An awesome App that is designed to help cooks to search their favourite recipes in just one place.
+- [To Do React App](https://github.com/AshishSharma1221/TodoApp): An App that is designed to keep users' simplicity in mind that helps users to simplify and to keep track of their daily tasks.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ashish-sharma-shiv786)
 - [Email](mailto:ashish.sb.sharma@gmail.com)
 
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 
 <!---
