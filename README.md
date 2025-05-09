@@ -16,7 +16,6 @@ Engineer | Data ♥
 - [To Do React App](https://github.com/AshishSharma1221/TodoApp): An App that is designed to keep users' simplicity in mind that helps users to simplify and to keep track of their daily tasks.
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ashish-sharma-shiv786)
 - [Email](mailto:ashish.sb.sharma@gmail.com)
 
 
